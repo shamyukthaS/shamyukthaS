@@ -14,24 +14,28 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class Shamyuktha:
-    name       = "Shamyuktha S"
-    location   = "Tamil Nadu, India 🇮🇳"
-    degree     = "BE Computer Science @ SRM Valliammai (CGPA: 8.82)"
+```json
+{
+  "whoami"           : "Shamyuktha S  ✨",
+  "location"         : "Tamil Nadu, India  🌏",
+  "degree"           : "B.E. Computer Science  |  SRM Valliammai  |  CGPA 8.82",
+  "currently"        : "Turning chai ☕ + code 💻 into cool stuff",
 
-    stack      = ["Python", "Java", "SQL", "Machine Learning", "NLP"]
+  "superpowers"      : ["Python", "Java", "SQL", "Machine Learning", "NLP"],
 
-    currently_learning = [
-        "Deep Learning & Neural Networks",
-        "Advanced Data Structures & Algorithms",
-        "Cloud Architecture (Azure / AWS)",
-    ]
+  "on_my_radar"      : [
+    "🧠  Deep Learning  →  because neurons > neurons",
+    "🤖  Generative AI  →  prompts are the new programs",
+    "☁️   Cloud          →  my code deserves a better home",
+    "⚔️   DSA            →  training for the algorithmic Olympics"
+  ],
 
-    fun_fact   = "I built a voice assistant before I could drive 🚗"
+  "fun_fact"         : "Built J.A.R.V.I.S. before I had a driver's licence 🚗",
+  "open_to"          : ["Internships", "Open Source", "Hackathons", "Collabs"],
+  "ask_me_about"     : ["AI projects", "Java", "Python", "Competitive Programming"],
 
-    def motto(self):
-        return "Code. Learn. Repeat. 🚀"
+  "life_equation"    : "curiosity  +  caffeine  +  keyboard  =  magic  🪄"
+}
 ```
 
 <br clear="right"/>
