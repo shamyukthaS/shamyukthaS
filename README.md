@@ -100,15 +100,29 @@ I love building intelligent systems — from voice assistants to data-driven app
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shamyukthasuresh&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions-127-70a5fd?style=for-the-badge&logo=github&logoColor=white)
+![Current Streak](https://img.shields.io/badge/🔥%20Current%20Streak-3%20Days-BF91F3?style=for-the-badge&logo=firebase&logoColor=white)
+![Longest Streak](https://img.shields.io/badge/🏅%20Longest%20Streak-12%20Days-38bdae?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shamyukthasuresh&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+
+```
+📅  May 2026   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓▓▓░░
+📅  Apr 2026   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▓▓▓░░░░░░░░
+📅  Mar 2026   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+![Commits This Week](https://img.shields.io/badge/Commits%20This%20Week-3-70a5fd?style=flat-square&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-1-bf91f3?style=flat-square&logo=github&logoColor=white)
+![Active Since](https://img.shields.io/badge/Active%20Since-2024-38bdae?style=flat-square&logo=github&logoColor=white)
+
 </div>
 
 ---
@@ -116,7 +130,7 @@ I love building intelligent systems — from voice assistants to data-driven app
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shamyukthasuresh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shamyukthaS&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
@@ -180,8 +194,8 @@ I love building intelligent systems — from voice assistants to data-driven app
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
-| 🤖 **[J.A.R.V.I.S. — AI Voice Assistant](https://github.com/shamyukthasuresh)** | `Python` `NLP` `SpeechRecognition` `pyttsx3` | Voice-activated AI assistant inspired by Marvel's JARVIS • Real-time task execution & information retrieval • Personalized response system with system integration |
-| 🌦️ **[Weather Forecasting System](https://github.com/shamyukthasuresh)** | `Python` `Scikit-learn` `Pandas` `ML Models` | Predictive weather model trained on historical meteorological data • Demonstrated AI potential in improving short-term forecast reliability |
+| 🤖 **[J.A.R.V.I.S. — AI Voice Assistant](https://github.com/shamyukthaS)** | `Python` `NLP` `SpeechRecognition` `pyttsx3` | Voice-activated AI assistant inspired by Marvel's JARVIS • Real-time task execution & information retrieval • Personalized response system with system integration |
+| 🌦️ **[Weather Forecasting System](https://github.com/shamyukthaS)** | `Python` `Scikit-learn` `Pandas` `ML Models` | Predictive weather model trained on historical meteorological data • Demonstrated AI potential in improving short-term forecast reliability |
 
 </div>
 
@@ -236,11 +250,11 @@ I love building intelligent systems — from voice assistants to data-driven app
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shamyuktha%20Suresh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shamyukthasuresh)
 [![Email](https://img.shields.io/badge/Email-shamyukthasuresh7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamyukthasuresh7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-shamyukthasuresh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shamyukthasuresh)
+[![GitHub](https://img.shields.io/badge/GitHub-shamyukthaS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shamyukthaS)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shamyukthasuresh&label=Profile+Views&color=70a5fd&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=shamyukthaS&label=Profile+Views&color=70a5fd&style=flat-square)
 
 </div>
 
